@@ -1,0 +1,12 @@
+Raw File can be downloaded :
+https://xenabrowser.net/datapages/?cohort=TCGA%20Kidney%20Clear%20Cell%20Carcinoma%20(KIRC)&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443
+
+File to Choose:
+1. Gene Expression 
+https://tcga-xena-hub.s3.us-east-1.amazonaws.com/download/TCGA.KIRC.sampleMap%2FHiSeqV2.gz; Full metadata
+
+2. miRNA Expression
+https://tcga-xena-hub.s3.us-east-1.amazonaws.com/download/TCGA.KIRC.sampleMap%2FmiRNA_HiSeq_gene.gz; Full metadata
+
+3. Clinical Information
+https://tcga-xena-hub.s3.us-east-1.amazonaws.com/download/TCGA.KIRC.sampleMap%2FKIRC_clinicalMatrix; Full metadata
